@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>polyscope_catkin</name>
+  <version>0.0.1</version>
+  <description>Wrapper for making Polyscope easy to integrate in ROS workspaces</description>
+  <maintainer email="dugas@mesh.ch">Daniel</maintainer>
+
+  <license>TBD</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <buildtool_depend>catkin_simple</buildtool_depend>
+
+  <export>
+  </export>
+</package>
